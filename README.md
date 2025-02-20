@@ -20,7 +20,7 @@ This is a **Simon Says** game built using **HTML, CSS, and JavaScript**.
 - **CSS** for styling
 - **JavaScript** for game logic
 
-## 📷 Screenshot (Optional)
-https://github.com/PremaDongare/Symon-Says-Game-Java-script-/blob/main/Symon%20says%20game.png?raw=true
+## 📷 Screenshot 
+(https://github.com/PremaDongare/Symon-Says-Game-Java-script-/blob/main/Symon%20says%20game.png?raw=true)
 
 
